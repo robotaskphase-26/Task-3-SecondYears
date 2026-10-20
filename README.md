@@ -25,11 +25,11 @@ You are required to complete two sub-tasks — **Linear Regression** and **Logis
 
 ### 🎯 Objective  
 
-Predict **Housing Prices** using Linear Regression.
+Predict **miles per gallon** using Linear Regression.
 
-You are given a dataset **housing.csv** that contains information about different California housing blocks such as location, population, median income, and housing characteristics.
+You are given a dataset **auto-mpg.csv** which contains information about various automobiles, including engine displacement, horsepower, vehicle weight, acceleration, and model year
 
-Your goal is to build a Linear Regression model from scratch that predicts the median house value based on multiple input features.
+Your goal is to build a Linear Regression model from scratch using NumPy to predict the miles per gallon (mpg) of automobiles and visualize the regression results using Matplotlib
 
 ---
 
