@@ -37,10 +37,12 @@ Your goal is to build a Linear Regression model from scratch using NumPy to pred
 
 ### 🎯 Objective  
 
-Predict whether a patient is likely to have Diabetes using Logistic Regression.
+Predict whether **a person earns >50K or <=50K annually** using Logistic Regression.
 
-You are given a dataset **diabetes_dataset.csv** containing patient demographic, lifestyle, and health-related information.
-Your task is to build a Logistic Regression model from scratch to predict the likelihood of diabetes
+You are provided with the dataset adult.csv, which contains census including age, education, occupation, and other socioeconomic
+indicators. 
+
+Your task is to implement Logistic Regression from scratch using NumPy to predict whether a person earns >50K or <=50K annually. You will preprocess the data, train your model, visualize results, and evaluate its performance.
 
 
 ## 🛠️ Folder Structure  
